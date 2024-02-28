@@ -1,5 +1,15 @@
 ---
 title: "About Us"
+image: mypic.png
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+    - text: Github
+      icon: github
+      href: https://github.com/rahulc6
+      
 ---
 
 Welcome to our data science hub! At our website, we are passionate about harnessing the power of data to drive insights, innovation, and impact across various industries.

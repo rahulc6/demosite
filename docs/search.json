@@ -159,5 +159,96 @@
     "title": "About Us",
     "section": "Get Started:",
     "text": "Get Started:\nReady to embark on your data science adventure? Explore our website, join our community, and unleash the power of data with us!"
+  },
+  {
+    "objectID": "tab1.html",
+    "href": "tab1.html",
+    "title": "Basic Statistics in Data Science",
+    "section": "",
+    "text": "Mean\nMedian\nMode\nVariance\nStandard Deviation\nRange\nPercentiles"
+  },
+  {
+    "objectID": "tab1.html#descriptive-statistics",
+    "href": "tab1.html#descriptive-statistics",
+    "title": "Basic Statistics in Data Science",
+    "section": "",
+    "text": "Mean\nMedian\nMode\nVariance\nStandard Deviation\nRange\nPercentiles"
+  },
+  {
+    "objectID": "tab1.html#probability-distributions",
+    "href": "tab1.html#probability-distributions",
+    "title": "Basic Statistics in Data Science",
+    "section": "Probability Distributions",
+    "text": "Probability Distributions\n\nNormal Distribution\nBinomial Distribution\nPoisson Distribution"
+  },
+  {
+    "objectID": "tab1.html#statistical-tests",
+    "href": "tab1.html#statistical-tests",
+    "title": "Basic Statistics in Data Science",
+    "section": "Statistical Tests",
+    "text": "Statistical Tests\n\nT-tests\nChi-squared test\nANOVA\nCorrelation\nRegression Analysis"
+  },
+  {
+    "objectID": "tab1.html#hypothesis-testing",
+    "href": "tab1.html#hypothesis-testing",
+    "title": "Basic Statistics in Data Science",
+    "section": "Hypothesis Testing",
+    "text": "Hypothesis Testing\n\nNull Hypothesis\nAlternative Hypothesis\np-value\nType I and Type II errors"
+  },
+  {
+    "objectID": "tab1.html#sampling-techniques",
+    "href": "tab1.html#sampling-techniques",
+    "title": "Basic Statistics in Data Science",
+    "section": "Sampling Techniques",
+    "text": "Sampling Techniques\n\nSimple Random Sampling\nStratified Sampling\nCluster Sampling\nSystematic Sampling"
+  },
+  {
+    "objectID": "tab1.html#confidence-intervals",
+    "href": "tab1.html#confidence-intervals",
+    "title": "Basic Statistics in Data Science",
+    "section": "Confidence Intervals",
+    "text": "Confidence Intervals\n\nCalculating confidence intervals"
+  },
+  {
+    "objectID": "tab1.html#data-distributions",
+    "href": "tab1.html#data-distributions",
+    "title": "Basic Statistics in Data Science",
+    "section": "Data Distributions",
+    "text": "Data Distributions\n\nSkewness\nKurtosis\nNormality Testing"
+  },
+  {
+    "objectID": "tab1.html#resampling-methods",
+    "href": "tab1.html#resampling-methods",
+    "title": "Basic Statistics in Data Science",
+    "section": "Resampling Methods",
+    "text": "Resampling Methods\n\nBootstrapping\nCross-validation"
+  },
+  {
+    "objectID": "tab1.html#experimental-design",
+    "href": "tab1.html#experimental-design",
+    "title": "Basic Statistics in Data Science",
+    "section": "Experimental Design",
+    "text": "Experimental Design\n\nRandomized Control Trials\nA/B Testing"
+  },
+  {
+    "objectID": "tab1.html#bayesian-statistics",
+    "href": "tab1.html#bayesian-statistics",
+    "title": "Basic Statistics in Data Science",
+    "section": "Bayesian Statistics",
+    "text": "Bayesian Statistics\n\nBayesian Inference\nPrior, Likelihood, and Posterior distributions"
+  },
+  {
+    "objectID": "tab1.html#time-series-analysis",
+    "href": "tab1.html#time-series-analysis",
+    "title": "Basic Statistics in Data Science",
+    "section": "Time Series Analysis",
+    "text": "Time Series Analysis\n\nTrend Analysis\nSeasonality\nAutocorrelation"
+  },
+  {
+    "objectID": "tab1.html#survival-analysis",
+    "href": "tab1.html#survival-analysis",
+    "title": "Basic Statistics in Data Science",
+    "section": "Survival Analysis",
+    "text": "Survival Analysis\n\nKaplan-Meier Estimator\nCox Proportional Hazards Model\n\n\nx &lt;- rnorm(1000)\nhist(x, main = \"Histogram of Normally Distributed Data\", xlab = \"Value\", ylab = \"Frequency\", col = \"skyblue\", border = \"white\")"
   }
 ]
