@@ -1,8 +1,0 @@
----
-title: "Tab 1"
-editor: visual
----
-
-```{r}
-plot(mtcars)
-```
