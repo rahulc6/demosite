@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "demosite"
+  title: "Rahul Reghu"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Favourites.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: styles.css
     toc: true
 

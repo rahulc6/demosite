@@ -1,0 +1,30 @@
+---
+title: "Data Science Tools with R"
+---
+
+
+## Programming Languages
+
+-   R
+-   SQL (for database querying)
+
+## Data Analysis and Visualization Libraries
+
+-   ggplot2
+-   dplyr
+-   tidyr
+
+## Statistical Packages
+
+-   RStudio
+-   stats
+
+## Machine Learning Packages
+
+-   xgboost
+-   randomForest
+
+## Version Control Systems
+
+-   Git
+-   GitHub

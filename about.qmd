@@ -1,9 +1,84 @@
 ---
-title: "About"
+title: "Basic Statistics in Data Science"
 ---
 
-About this site
+## Descriptive Statistics
+
+- Mean
+- Median
+- Mode
+- Variance
+- Standard Deviation
+- Range
+- Percentiles
+
+## Probability Distributions
+
+- Normal Distribution
+- Binomial Distribution
+- Poisson Distribution
+
+## Statistical Tests
+
+- T-tests
+- Chi-squared test
+- ANOVA
+- Correlation
+- Regression Analysis
+
+## Hypothesis Testing
+
+- Null Hypothesis
+- Alternative Hypothesis
+- p-value
+- Type I and Type II errors
+
+## Sampling Techniques
+
+- Simple Random Sampling
+- Stratified Sampling
+- Cluster Sampling
+- Systematic Sampling
+
+## Confidence Intervals
+
+- Calculating confidence intervals
+
+## Data Distributions
+
+- Skewness
+- Kurtosis
+- Normality Testing
+
+## Resampling Methods
+
+- Bootstrapping
+- Cross-validation
+
+## Experimental Design
+
+- Randomized Control Trials
+- A/B Testing
+
+## Bayesian Statistics
+
+- Bayesian Inference
+- Prior, Likelihood, and Posterior distributions
+
+## Time Series Analysis
+
+- Trend Analysis
+- Seasonality
+- Autocorrelation
+
+## Survival Analysis
+
+- Kaplan-Meier Estimator
+- Cox Proportional Hazards Model
 
 ```{r}
-1 + 1
+x <- rnorm(1000)
+hist(x, main = "Histogram of Normally Distributed Data", xlab = "Value", ylab = "Frequency", col = "skyblue", border = "white")
+
 ```
+
