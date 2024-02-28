@@ -2,15 +2,162 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "demosite",
+    "title": "About Us",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to our data science hub! At our website, we are passionate about harnessing the power of data to drive insights, innovation, and impact across various industries.\nOur mission is to demystify the field of data science and empower individuals and organizations to leverage data effectively. Whether you’re a beginner looking to dive into the world of data analysis or an experienced data scientist seeking advanced techniques and tools, we’ve got you covered."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Basic Statistics in Data Science",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Mean\nMedian\nMode\nVariance\nStandard Deviation\nRange\nPercentiles"
+  },
+  {
+    "objectID": "Favourites.html",
+    "href": "Favourites.html",
+    "title": "Data Science Tools with R",
+    "section": "",
+    "text": "R\nSQL (for database querying)"
+  },
+  {
+    "objectID": "Favourites.html#programming-languages",
+    "href": "Favourites.html#programming-languages",
+    "title": "Data Science Tools with R",
+    "section": "",
+    "text": "R\nSQL (for database querying)"
+  },
+  {
+    "objectID": "Favourites.html#data-analysis-and-visualization-libraries",
+    "href": "Favourites.html#data-analysis-and-visualization-libraries",
+    "title": "Data Science Tools with R",
+    "section": "Data Analysis and Visualization Libraries",
+    "text": "Data Analysis and Visualization Libraries\n\nggplot2\ndplyr\ntidyr"
+  },
+  {
+    "objectID": "Favourites.html#statistical-packages",
+    "href": "Favourites.html#statistical-packages",
+    "title": "Data Science Tools with R",
+    "section": "Statistical Packages",
+    "text": "Statistical Packages\n\nRStudio\nstats"
+  },
+  {
+    "objectID": "Favourites.html#machine-learning-packages",
+    "href": "Favourites.html#machine-learning-packages",
+    "title": "Data Science Tools with R",
+    "section": "Machine Learning Packages",
+    "text": "Machine Learning Packages\n\nxgboost\nrandomForest"
+  },
+  {
+    "objectID": "Favourites.html#version-control-systems",
+    "href": "Favourites.html#version-control-systems",
+    "title": "Data Science Tools with R",
+    "section": "Version Control Systems",
+    "text": "Version Control Systems\n\nGit\nGitHub"
+  },
+  {
+    "objectID": "about.html#descriptive-statistics",
+    "href": "about.html#descriptive-statistics",
+    "title": "Basic Statistics in Data Science",
+    "section": "",
+    "text": "Mean\nMedian\nMode\nVariance\nStandard Deviation\nRange\nPercentiles"
+  },
+  {
+    "objectID": "about.html#probability-distributions",
+    "href": "about.html#probability-distributions",
+    "title": "Basic Statistics in Data Science",
+    "section": "Probability Distributions",
+    "text": "Probability Distributions\n\nNormal Distribution\nBinomial Distribution\nPoisson Distribution"
+  },
+  {
+    "objectID": "about.html#statistical-tests",
+    "href": "about.html#statistical-tests",
+    "title": "Basic Statistics in Data Science",
+    "section": "Statistical Tests",
+    "text": "Statistical Tests\n\nT-tests\nChi-squared test\nANOVA\nCorrelation\nRegression Analysis"
+  },
+  {
+    "objectID": "about.html#hypothesis-testing",
+    "href": "about.html#hypothesis-testing",
+    "title": "Basic Statistics in Data Science",
+    "section": "Hypothesis Testing",
+    "text": "Hypothesis Testing\n\nNull Hypothesis\nAlternative Hypothesis\np-value\nType I and Type II errors"
+  },
+  {
+    "objectID": "about.html#sampling-techniques",
+    "href": "about.html#sampling-techniques",
+    "title": "Basic Statistics in Data Science",
+    "section": "Sampling Techniques",
+    "text": "Sampling Techniques\n\nSimple Random Sampling\nStratified Sampling\nCluster Sampling\nSystematic Sampling"
+  },
+  {
+    "objectID": "about.html#confidence-intervals",
+    "href": "about.html#confidence-intervals",
+    "title": "Basic Statistics in Data Science",
+    "section": "Confidence Intervals",
+    "text": "Confidence Intervals\n\nCalculating confidence intervals"
+  },
+  {
+    "objectID": "about.html#data-distributions",
+    "href": "about.html#data-distributions",
+    "title": "Basic Statistics in Data Science",
+    "section": "Data Distributions",
+    "text": "Data Distributions\n\nSkewness\nKurtosis\nNormality Testing"
+  },
+  {
+    "objectID": "about.html#resampling-methods",
+    "href": "about.html#resampling-methods",
+    "title": "Basic Statistics in Data Science",
+    "section": "Resampling Methods",
+    "text": "Resampling Methods\n\nBootstrapping\nCross-validation"
+  },
+  {
+    "objectID": "about.html#experimental-design",
+    "href": "about.html#experimental-design",
+    "title": "Basic Statistics in Data Science",
+    "section": "Experimental Design",
+    "text": "Experimental Design\n\nRandomized Control Trials\nA/B Testing"
+  },
+  {
+    "objectID": "about.html#bayesian-statistics",
+    "href": "about.html#bayesian-statistics",
+    "title": "Basic Statistics in Data Science",
+    "section": "Bayesian Statistics",
+    "text": "Bayesian Statistics\n\nBayesian Inference\nPrior, Likelihood, and Posterior distributions"
+  },
+  {
+    "objectID": "about.html#time-series-analysis",
+    "href": "about.html#time-series-analysis",
+    "title": "Basic Statistics in Data Science",
+    "section": "Time Series Analysis",
+    "text": "Time Series Analysis\n\nTrend Analysis\nSeasonality\nAutocorrelation"
+  },
+  {
+    "objectID": "about.html#survival-analysis",
+    "href": "about.html#survival-analysis",
+    "title": "Basic Statistics in Data Science",
+    "section": "Survival Analysis",
+    "text": "Survival Analysis\n\nKaplan-Meier Estimator\nCox Proportional Hazards Model\n\n\nx &lt;- rnorm(1000)\nhist(x, main = \"Histogram of Normally Distributed Data\", xlab = \"Value\", ylab = \"Frequency\", col = \"skyblue\", border = \"white\")"
+  },
+  {
+    "objectID": "index.html#what-we-offer",
+    "href": "index.html#what-we-offer",
+    "title": "About Us",
+    "section": "What We Offer:",
+    "text": "What We Offer:\n\nEducational Resources: Access tutorials, articles, and courses covering a wide range of topics in data science, including data visualization, machine learning, statistical analysis, and more.\nPractical Guidance: Learn best practices and tips from seasoned data scientists to apply data science methodologies effectively in real-world scenarios.\nCommunity Engagement: Connect with like-minded individuals, share insights, and collaborate on data science projects through our vibrant online community forums and events.\nTools and Technologies: Stay updated on the latest tools, technologies, and trends shaping the field of data science, including popular programming languages, libraries, and frameworks.\nCareer Development: Explore career opportunities, industry insights, and professional development resources to advance your career in data science."
+  },
+  {
+    "objectID": "index.html#our-team",
+    "href": "index.html#our-team",
+    "title": "About Us",
+    "section": "Our Team:",
+    "text": "Our Team:\nOur website is fueled by a team of dedicated data enthusiasts, industry experts, and educators passionate about making data science accessible to all. We’re committed to providing high-quality, relevant content and resources to help you succeed on your data science journey."
+  },
+  {
+    "objectID": "index.html#get-started",
+    "href": "index.html#get-started",
+    "title": "About Us",
+    "section": "Get Started:",
+    "text": "Get Started:\nReady to embark on your data science adventure? Explore our website, join our community, and unleash the power of data with us!"
   }
 ]
